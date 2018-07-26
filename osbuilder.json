@@ -1,0 +1,44 @@
+{
+"osbuilder":[
+{
+"InfoMessage":[
+"New: https://www.osdeploy.com/osbuilder/how-to/show-os-information.html",
+"New: https://www.osdeploy.com/osbuilder/knowledge/osbuilder-os-information.html",
+"Updated: https://www.osdeploy.com/osbuilder/how-to/create-an-osmedia-task.html",
+"Updated: https://www.osdeploy.com/osbuilder/how-to/create-an-osbuild-task.html",
+"New: https://www.osdeploy.com/osbuilder/how-to/executionmode-information.html",
+"New: https://www.osdeploy.com/osbuilder/how-to/executionmode-test-build.html",
+"New: https://www.osdeploy.com/osbuilder/how-to/executionmode-execute-stepped.html",
+"New: https://www.osdeploy.com/osbuilder/how-to/executionmode-execute.html"
+],
+"Module":"18.7.25.0",
+"ModuleInfo":[
+"OSBuilder 18.7.25.0 is released",
+"Corrects an issue where Winpeshl.ini was left in WinPE.wim",
+"If you had previously added MSDaRT, rebuild your OSBuild",
+"https://www.osdeploy.com/osbuilder/release-information.html",
+"",
+"Download from the PowerShell Gallery",
+"https://www.powershellgallery.com/packages/OSBuilder/18.7.25.0",
+"",
+"Uninstall previous versions using the following PowerShell Command:",
+"Uninstall-Module -Name OSBuilder -AllVersions -Force",
+"",
+"Install the latest version with the following PowerShell Command:",
+"Install-Module -Name OSBuilder -Scope CurrentUser"
+],
+"Stacks":"2018-07-09",
+"StacksInfo":[
+"Servicing Stacks have been modified or released",
+"Check for new Servicing Stacks with the following PowerShell Command:",
+"Get-OSBuilder -DownloadUpdates Latest"
+],
+"Updates":"2018-07-24",
+"UpdatesInfo":[
+"Windows Updates have been modified or released",
+"Check for new Windows Updates with the following PowerShell Command:",
+"Get-OSBuilder -DownloadUpdates Latest"
+]
+}
+]
+}
