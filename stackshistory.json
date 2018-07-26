@@ -1,0 +1,98 @@
+[
+{
+"Released":  "2018-07-09",
+"KBNumber":  "KB4343669",
+"Class":  "Servicing Stack Update",
+"OS":  "Windows 10",
+"Arch":  "x64",
+"Version":  "1803",
+"Build":  "17134",
+"FileName":  "windows10.0-kb4343669-x64.msu",
+"URLFile":  "windows10.0-kb4343669-x64_2a58320e44d3ff803bc7016b5d02f3e85482b46f.msu",
+"URLPath":  "http://download.windowsupdate.com/d/msdownload/update/software/crup/2018/07/windows10.0-kb4343669-x64_2a58320e44d3ff803bc7016b5d02f3e85482b46f.msu"
+},
+{
+"Released":  "2018-07-09",
+"KBNumber":  "KB4343669",
+"Class":  "Servicing Stack Update",
+"OS":  "Windows 10",
+"Arch":  "x86",
+"Version":  "1803",
+"Build":  "17134",
+"FileName":  "windows10.0-kb4343669-x86.msu",
+"URLFile":  "windows10.0-kb4343669-x86_007e2da4899083bc01c78f625a6458e8643e2bb0.msu",
+"URLPath":  "http://download.windowsupdate.com/c/msdownload/update/software/crup/2018/07/windows10.0-kb4343669-x86_007e2da4899083bc01c78f625a6458e8643e2bb0.msu"
+},
+{
+"Released":  "2018-07-05",
+"KBNumber":  "KB4339420",
+"Class":  "Servicing Stack Update",
+"OS":  "Windows 10",
+"Arch":  "x64",
+"Version":  "1709",
+"Build":  "16299",
+"FileName":  "windows10.0-kb4339420-x64.msu",
+"URLFile":  "windows10.0-kb4339420-x64_18d8c2fb077e113d43931e6eb8f8cdbb23538157.msu",
+"URLPath":  "http://download.windowsupdate.com/c/msdownload/update/software/crup/2018/07/windows10.0-kb4339420-x64_18d8c2fb077e113d43931e6eb8f8cdbb23538157.msu"
+},
+{
+"Released":  "2018-07-05",
+"KBNumber":  "KB4339420",
+"Class":  "Servicing Stack Update",
+"OS":  "Windows 10",
+"Arch":  "x86",
+"Version":  "1709",
+"Build":  "16299",
+"FileName":  "windows10.0-kb4339420-x86.msu",
+"URLFile":  "windows10.0-kb4339420-x86_e55a3d3a16a4f22d03cef5032c67fede610fc0fb.msu",
+"URLPath":  "http://download.windowsupdate.com/d/msdownload/update/software/crup/2018/07/windows10.0-kb4339420-x86_e55a3d3a16a4f22d03cef5032c67fede610fc0fb.msu"
+},
+{
+"Released":  "2018-06-12",
+"KBNumber":  "KB4132216",
+"Class":  "Servicing Stack Update",
+"OS":  "Windows 10",
+"Arch":  "x64",
+"Version":  "1607",
+"Build":  "14393",
+"FileName":  "windows10.0-kb4132216-x64.msu",
+"URLFile":  "windows10.0-kb4132216-x64_9cbeb1024166bdeceff90cd564714e1dcd01296e.msu",
+"URLPath":  "http://download.windowsupdate.com/c/msdownload/update/software/crup/2018/05/windows10.0-kb4132216-x64_9cbeb1024166bdeceff90cd564714e1dcd01296e.msu"
+},
+{
+"Released":  "2018-06-12",
+"KBNumber":  "KB4132216",
+"Class":  "Servicing Stack Update",
+"OS":  "Windows 10",
+"Arch":  "x86",
+"Version":  "1607",
+"Build":  "14393",
+"FileName":  "windows10.0-kb4132216-x86.msu",
+"URLFile":  "windows10.0-kb4132216-x86_397ebbe49d273429a3e0ce8d6ced13fdb83e1718.msu",
+"URLPath":  "http://download.windowsupdate.com/c/msdownload/update/software/crup/2018/05/windows10.0-kb4132216-x86_397ebbe49d273429a3e0ce8d6ced13fdb83e1718.msu"
+},
+{
+"Released":  "2018-05-17",
+"KBNumber":  "KB4132649",
+"Class":  "Servicing Stack Update",
+"OS":  "Windows 10",
+"Arch":  "x64",
+"Version":  "1703",
+"Build":  "15063",
+"FileName":  "windows10.0-kb4132649-x64.msu",
+"URLFile":  "windows10.0-kb4132649-x64_7b1001d846a7a14b752a7ea4c7dd444d4c05b39b.msu",
+"URLPath":  "http://download.windowsupdate.com/c/msdownload/update/software/crup/2018/05/windows10.0-kb4132649-x64_7b1001d846a7a14b752a7ea4c7dd444d4c05b39b.msu"
+},
+{
+"Released":  "2018-05-17",
+"KBNumber":  "KB4132649",
+"Class":  "Servicing Stack Update",
+"OS":  "Windows 10",
+"Arch":  "x86",
+"Version":  "1703",
+"Build":  "15063",
+"FileName":  "windows10.0-kb4132649-x86.msu",
+"URLFile":  "windows10.0-kb4132649-x86_ea616942f1348d22aeaf07ebee1759b3a8aa708a.msu",
+"URLPath":  "http://download.windowsupdate.com/c/msdownload/update/software/crup/2018/05/windows10.0-kb4132649-x86_ea616942f1348d22aeaf07ebee1759b3a8aa708a.msu"
+}
+]
