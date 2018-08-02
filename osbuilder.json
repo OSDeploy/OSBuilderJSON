@@ -2,23 +2,18 @@
 "osbuilder":[
 {
 "InfoMessage":[
-"New: https://www.osdeploy.com/osbuilder/how-to/show-os-information.html",
-"New: https://www.osdeploy.com/osbuilder/knowledge/osbuilder-os-information.html",
-"Updated: https://www.osdeploy.com/osbuilder/how-to/create-an-osmedia-task.html",
-"Updated: https://www.osdeploy.com/osbuilder/how-to/create-an-osbuild-task.html",
-"New: https://www.osdeploy.com/osbuilder/how-to/executionmode-information.html",
-"New: https://www.osdeploy.com/osbuilder/how-to/executionmode-test-build.html",
-"New: https://www.osdeploy.com/osbuilder/how-to/executionmode-execute-stepped.html",
-"New: https://www.osdeploy.com/osbuilder/how-to/executionmode-execute.html"
+"New: https://www.osdeploy.com/osbuilder/how-to/osbuild-winpe-scripts",
+"New: https://www.osdeploy.com/osbuilder/how-to/add-adk-packages-to-winpe",
+"New: https://www.osdeploy.com/osbuilder/how-to/add-extra-files-to-winpe"
 ],
-"Module":"18.7.26.1",
+"Module":"18.8.2.0",
 "ModuleInfo":[
-"OSBuilder 18.7.26.1 is released",
-"Create a Bootable USB using New-OSBuilderUSB",
+"OSBuilder 18.8.2.0 is released",
+"New options for customizing WinPE",
 "https://www.osdeploy.com/osbuilder/release-information.html",
 "",
 "Download from the PowerShell Gallery",
-"https://www.powershellgallery.com/packages/OSBuilder/18.7.26.1",
+"https://www.powershellgallery.com/packages/OSBuilder/18.8.2.0",
 "",
 "Uninstall previous versions using the following PowerShell Command:",
 "Uninstall-Module -Name OSBuilder -AllVersions -Force",
