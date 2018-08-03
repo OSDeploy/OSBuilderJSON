@@ -2,9 +2,12 @@
 "osbuilder":[
 {
 "InfoMessage":[
+"New: https://www.osdeploy.com/osbuilder/how-to/windows-setup-with-dart-remote-connection",
 "New: https://www.osdeploy.com/osbuilder/how-to/osbuild-winpe-scripts",
 "New: https://www.osdeploy.com/osbuilder/how-to/add-adk-packages-to-winpe",
-"New: https://www.osdeploy.com/osbuilder/how-to/add-extra-files-to-winpe"
+"New: https://www.osdeploy.com/osbuilder/how-to/add-extra-files-to-winpe",
+"",
+"Thanks CTSMUG!"
 ],
 "Module":"18.8.2.0",
 "ModuleInfo":[
