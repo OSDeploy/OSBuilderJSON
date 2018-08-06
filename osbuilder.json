@@ -7,14 +7,14 @@
 "New: https://www.osdeploy.com/osbuilder/how-to/add-adk-packages-to-winpe",
 "New: https://www.osdeploy.com/osbuilder/how-to/add-extra-files-to-winpe"
 ],
-"Module":"18.8.5.1",
+"Module":"18.8.6.0",
 "ModuleInfo":[
-"OSBuilder 18.8.5.1 is released",
-"Install.wim Extra Files and Script Support now available",
+"OSBuilder 18.8.6.0 is released",
+"Install.wim Script Support now available",
 "https://www.osdeploy.com/osbuilder/release-information.html",
 "",
 "Download from the PowerShell Gallery",
-"https://www.powershellgallery.com/packages/OSBuilder/18.8.5.1",
+"https://www.powershellgallery.com/packages/OSBuilder/18.8.6.0",
 "",
 "Uninstall previous versions using the following PowerShell Command:",
 "Uninstall-Module -Name OSBuilder -AllVersions -Force",
