@@ -5,18 +5,16 @@
 "New: https://www.osdeploy.com/osbuilder/how-to/windows-setup-with-dart-remote-connection",
 "New: https://www.osdeploy.com/osbuilder/how-to/osbuild-winpe-scripts",
 "New: https://www.osdeploy.com/osbuilder/how-to/add-adk-packages-to-winpe",
-"New: https://www.osdeploy.com/osbuilder/how-to/add-extra-files-to-winpe",
-"",
-"Thanks CTSMUG!"
+"New: https://www.osdeploy.com/osbuilder/how-to/add-extra-files-to-winpe"
 ],
-"Module":"18.8.2.0",
+"Module":"18.8.5.0",
 "ModuleInfo":[
-"OSBuilder 18.8.2.0 is released",
-"New options for customizing WinPE",
+"OSBuilder 18.8.5.0 is released",
+"Resolves Extra Files issue with replacing files with NTFS Trusted Install permissions",
 "https://www.osdeploy.com/osbuilder/release-information.html",
 "",
 "Download from the PowerShell Gallery",
-"https://www.powershellgallery.com/packages/OSBuilder/18.8.2.0",
+"https://www.powershellgallery.com/packages/OSBuilder/18.8.5.0",
 "",
 "Uninstall previous versions using the following PowerShell Command:",
 "Uninstall-Module -Name OSBuilder -AllVersions -Force",
