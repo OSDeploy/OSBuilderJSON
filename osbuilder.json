@@ -1,39 +1,36 @@
 {
-"osbuilder":[
-{
-"InfoMessage":[
-"New: https://www.osdeploy.com/osbuilder/how-to/windows-setup-with-dart-remote-connection",
-"New: https://www.osdeploy.com/osbuilder/how-to/osbuild-winpe-scripts",
-"New: https://www.osdeploy.com/osbuilder/how-to/add-adk-packages-to-winpe",
-"New: https://www.osdeploy.com/osbuilder/how-to/add-extra-files-to-winpe"
-],
-"Module":"18.8.6.0",
-"ModuleInfo":[
-"OSBuilder 18.8.6.0 is released",
-"Install.wim Script Support now available",
-"https://www.osdeploy.com/osbuilder/release-information.html",
-"",
-"Download from the PowerShell Gallery",
-"https://www.powershellgallery.com/packages/OSBuilder/18.8.6.0",
-"",
-"Uninstall previous versions using the following PowerShell Command:",
-"Uninstall-Module -Name OSBuilder -AllVersions -Force",
-"",
-"Install the latest version with the following PowerShell Command:",
-"Install-Module -Name OSBuilder -Scope CurrentUser"
-],
-"Stacks":"2018-07-09",
-"StacksInfo":[
-"Servicing Stacks have been modified or released",
-"Check for new Servicing Stacks with the following PowerShell Command:",
-"Get-OSBuilder -DownloadUpdates Latest"
-],
-"Updates":"2018-07-24",
-"UpdatesInfo":[
-"Windows Updates have been modified or released",
-"Check for new Windows Updates with the following PowerShell Command:",
-"Get-OSBuilder -DownloadUpdates Latest"
-]
-}
-]
+    "osbuilder":[
+        {
+        "InfoMessage":[
+            "New: https://www.osdeploy.com/osbuilder/how-to/windows-setup-with-dart-remote-connection"
+            ],
+        "Module":"18.8.6.1",
+        "ModuleInfo":[
+            "OSBuilder 18.8.6.1 is released",
+            "WinRE.wim winpeshl.ini modification from -prompt to -network to resolve OSUpgrade issues",
+            "https://www.osdeploy.com/osbuilder/release-information.html",
+            "",
+            "Download from the PowerShell Gallery",
+            "https://www.powershellgallery.com/packages/OSBuilder/18.8.6.1",
+            "",
+            "Uninstall previous versions using the following PowerShell Command:",
+            "Uninstall-Module -Name OSBuilder -AllVersions -Force",
+            "",
+            "Install the latest version with the following PowerShell Command:",
+            "Install-Module -Name OSBuilder -Scope CurrentUser"
+            ],
+        "Stacks":"2018-07-09",
+        "StacksInfo":[
+            "Servicing Stacks have been modified or released",
+            "Check for new Servicing Stacks with the following PowerShell Command:",
+            "Get-OSBuilder -DownloadUpdates Latest"
+            ],
+        "Updates":"2018-07-24",
+        "UpdatesInfo":[
+            "Windows Updates have been modified or released",
+            "Check for new Windows Updates with the following PowerShell Command:",
+            "Get-OSBuilder -DownloadUpdates Latest"
+            ]
+        }
+    ]
 }
