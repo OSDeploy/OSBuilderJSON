@@ -1,6 +1,6 @@
 [
     {
-        "Released": "2018-08-14",
+        "Released": "2018-08-10",
         "KBNumber": "KB4343909",
         "Class": "Cumulative Update",
         "OS": "Windows 10",
@@ -13,7 +13,7 @@
         "URLPath": "http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/08/windows10.0-kb4343909-x64_f931af6d56797388715fe3b0d97569af7aebdae6.msu"
     },
     {
-        "Released": "2018-08-14",
+        "Released": "2018-08-10",
         "KBNumber": "KB4343909",
         "Class": "Cumulative Update",
         "OS": "Windows 10",
@@ -26,7 +26,7 @@
         "URLPath": "http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/08/windows10.0-kb4343909-x86_fbf9fed91d88edf0a77a3f102900be81835c63d6.msu"
     },
     {
-        "Released": "2018-08-14",
+        "Released": "2018-08-10",
         "KBNumber": "KB4343897",
         "Class": "Cumulative Update",
         "OS": "Windows 10",
@@ -39,7 +39,7 @@
         "URLPath": "http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/08/windows10.0-kb4343897-x64_66f12de88c3bf905dae71fab9b52d17257e07c1a.msu"
     },
     {
-        "Released": "2018-08-14",
+        "Released": "2018-08-10",
         "KBNumber": "KB4343897",
         "Class": "Cumulative Update",
         "OS": "Windows 10",
@@ -51,58 +51,58 @@
         "URLFile": "windows10.0-kb4343897-x86_e210ec78e030994b2ba62d9c7016e4fc3eb5df18.msu",
         "URLPath": "http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/08/windows10.0-kb4343897-x86_e210ec78e030994b2ba62d9c7016e4fc3eb5df18.msu"
     },
-{
-"Released": "2018-07-24",
-"KBNumber": "KB4338822",
-"Class": "Cumulative Update",
-"OS": "Windows 10",
-"Arch": "x64",
-"Version": "1607",
-"Build": "14393",
-"UBR":	"14393.2395",
-"FileName": "windows10.0-kb4338822-x64.msu",
-"URLFile": "windows10.0-kb4338822-x64_2db60cf228eca5137700178e0e7b2d6d3d19f78b.msu",
-"URLPath": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/07/windows10.0-kb4338822-x64_2db60cf228eca5137700178e0e7b2d6d3d19f78b.msu"
-},
-{
-"Released": "2018-07-24",
-"KBNumber": "KB4338822",
-"Class": "Cumulative Update",
-"OS": "Windows 10",
-"Arch": "x86",
-"Version": "1607",
-"Build": "14393",
-"UBR":	"14393.2395",
-"FileName": "windows10.0-kb4338822-x86.msu",
-"URLFile": "windows10.0-kb4338822-x86_eddadced76cda33905846b498dd8b3873abb5335.msu",
-"URLPath": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/07/windows10.0-kb4338822-x86_eddadced76cda33905846b498dd8b3873abb5335.msu"
-},
-{
-"Released": "2018-07-24",
-"KBNumber": "KB4338827",
-"Class": "Cumulative Update",
-"OS": "Windows 10",
-"Arch": "x64",
-"Version": "1703",
-"Build": "15063",
-"UBR":	"15063.1235",
-"FileName": "windows10.0-kb4338827-x64.msu",
-"URLFile": "windows10.0-kb4338827-x64_f8b2e62b66e5135fe058e896b32786149f945c89.msu",
-"URLPath": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/07/windows10.0-kb4338827-x64_f8b2e62b66e5135fe058e896b32786149f945c89.msu"
-},
-{
-"Released": "2018-07-24",
-"KBNumber": "KB4338827",
-"Class": "Cumulative Update",
-"OS": "Windows 10",
-"Arch": "x86",
-"Version": "1703",
-"Build": "15063",
-"UBR":	"15063.1235",
-"FileName": "windows10.0-kb4338827-x86.msu",
-"URLFile": "windows10.0-kb4338827-x86_5af2fb0a04366913dc997ceb2e0e542b15c41a31.msu",
-"URLPath": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/07/windows10.0-kb4338827-x86_5af2fb0a04366913dc997ceb2e0e542b15c41a31.msu"
-},
+    {
+        "Released": "2018-08-10",
+        "KBNumber": "KB4343885",
+        "Class": "Cumulative Update",
+        "OS": "Windows 10",
+        "Arch": "x64",
+        "Version": "1703",
+        "Build": "15063",
+        "UBR":	"15063.1266",
+        "FileName": "windows10.0-kb4343885-x64.msu",
+        "URLFile": "windows10.0-kb4343885-x64_6c70fb3e65e5511a4d97ee72e829ffa40cb07f43.msu",
+        "URLPath": "http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/08/windows10.0-kb4343885-x64_6c70fb3e65e5511a4d97ee72e829ffa40cb07f43.msu"
+    },
+    {
+        "Released": "2018-08-10",
+        "KBNumber": "KB4343885",
+        "Class": "Cumulative Update",
+        "OS": "Windows 10",
+        "Arch": "x86",
+        "Version": "1703",
+        "Build": "15063",
+        "UBR":	"15063.1266",
+        "FileName": "windows10.0-kb4343885-x86.msu",
+        "URLFile": "windows10.0-kb4343885-x86_2756b64919ffe6a5e9de712fcd3bd3231bcbdf2e.msu",
+        "URLPath": "http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/08/windows10.0-kb4343885-x86_2756b64919ffe6a5e9de712fcd3bd3231bcbdf2e.msu"
+    },
+    {
+        "Released": "2018-08-10",
+        "KBNumber": "KB4343887",
+        "Class": "Cumulative Update",
+        "OS": "Windows 10",
+        "Arch": "x64",
+        "Version": "1607",
+        "Build": "14393",
+        "UBR":	"14393.2430",
+        "FileName": "windows10.0-kb4343887-x64.msu",
+        "URLFile": "windows10.0-kb4343887-x64_b271ddc543d9dced2baef6af558e94726a549df3.msu",
+        "URLPath": "http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/08/windows10.0-kb4343887-x64_b271ddc543d9dced2baef6af558e94726a549df3.msu"
+    },
+    {
+        "Released": "2018-08-10",
+        "KBNumber": "KB4343887",
+        "Class": "Cumulative Update",
+        "OS": "Windows 10",
+        "Arch": "x86",
+        "Version": "1607",
+        "Build": "14393",
+        "UBR":	"14393.2430",
+        "FileName": "windows10.0-kb4343887-x86.msu",
+        "URLFile": "windows10.0-kb4343887-x86_7749e00f96fe8426cdcb1dabe70ac84824c581e4.msu",
+        "URLPath": "http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/08/windows10.0-kb4343887-x86_7749e00f96fe8426cdcb1dabe70ac84824c581e4.msu"
+    },
 {
 "Released":  "2018-07-13",
 "KBNumber":  "KB4338832",
