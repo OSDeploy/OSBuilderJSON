@@ -25,7 +25,7 @@
             "Check for new Servicing Stacks with the following PowerShell Command:",
             "Get-OSBuilder -DownloadUpdates Latest"
             ],
-        "Updates":"2018-07-24",
+        "Updates":"2018-08-10",
         "UpdatesInfo":[
             "Windows Updates have been modified or released",
             "Check for new Windows Updates with the following PowerShell Command:",
