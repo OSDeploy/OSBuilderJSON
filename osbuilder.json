@@ -5,13 +5,13 @@
 			"New: https://www.osdeploy.com/osbuilder/how-to/get-osbuilderupdates",
 			"New: https://www.osdeploy.com/osbuilder/how-to/update-osmedia"
 			],
-        "Module":"18.9.12.0",
+        "Module":"18.9.13.0",
         "ModuleInfo":[
-            "Update OSBuilder to download and use September Updates",
+            "Resolves an issue calculating the UBR",
             "https://www.osdeploy.com/osbuilder/release-information.html",
             "",
             "Download from the PowerShell Gallery",
-            "https://www.powershellgallery.com/packages/OSBuilder/18.9.12.0",
+            "https://www.powershellgallery.com/packages/OSBuilder/18.9.13.0",
             "",
             "Uninstall previous versions using the following PowerShell Command:",
             "Uninstall-Module -Name OSBuilder -AllVersions -Force",
