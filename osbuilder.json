@@ -1,36 +1,32 @@
-{
-    "osbuilder":[
-        {
-		"InfoMessage":[
-			"New: https://www.osdeploy.com/osbuilder/how-to/get-osbuilderupdates",
-			"New: https://www.osdeploy.com/osbuilder/how-to/update-osmedia"
-			],
-        "Module":"18.9.13.0",
-        "ModuleInfo":[
-            "Resolves an issue calculating the UBR",
-            "https://www.osdeploy.com/osbuilder/release-information.html",
-            "",
-            "Download from the PowerShell Gallery",
-            "https://www.powershellgallery.com/packages/OSBuilder/18.9.13.0",
-            "",
-            "Uninstall previous versions using the following PowerShell Command:",
-            "Uninstall-Module -Name OSBuilder -AllVersions -Force",
-            "",
-            "Install the latest version with the following PowerShell Command:",
-            "Install-Module -Name OSBuilder -Scope CurrentUser"
-            ],
-        "Stacks":"2018-07-09",
-        "StacksInfo":[
-            "Servicing Stacks have been modified or released",
-            "Check for new Servicing Stacks with the following PowerShell Command:",
-            "Get-OSBuilder -DownloadUpdates Latest"
-            ],
-        "Updates":"2018-08-10",
-        "UpdatesInfo":[
-            "Windows Updates have been modified or released",
-            "Check for new Windows Updates with the following PowerShell Command:",
-            "Get-OSBuilder -DownloadUpdates Latest"
-            ]
-        }
-    ]
-}
+{"osbuilder":[{
+	"InfoMessage":[
+	"New: https://www.osdeploy.com/osbuilder/how-to/get-osbuilderupdates",
+	"New: https://www.osdeploy.com/osbuilder/how-to/update-osmedia"
+	],
+	"Module":	"18.9.14.0",
+	"ModuleInfo":[
+	"Automaic Update Downloads",
+	"https://www.osdeploy.com/osbuilder/release-information.html",
+	"",
+	"Download from the PowerShell Gallery",
+	"https://www.powershellgallery.com/packages/OSBuilder/18.9.14.0",
+	"",
+	"Uninstall previous versions using the following PowerShell Command:",
+	"Uninstall-Module -Name OSBuilder -AllVersions -Force",
+	"",
+	"Install the latest version with the following PowerShell Command:",
+	"Install-Module -Name OSBuilder -Scope CurrentUser"
+	],
+	"Stacks":"2018-07-09",
+	"StacksInfo":[
+	"Servicing Stacks have been modified or released",
+	"Check for new Servicing Stacks with the following PowerShell Command:",
+	"Get-OSBuilder -DownloadUpdates Latest"
+	],
+	"Updates":"2018-08-10",
+	"UpdatesInfo":[
+	"Windows Updates have been modified or released",
+	"Check for new Windows Updates with the following PowerShell Command:",
+	"Get-OSBuilder -DownloadUpdates Latest"
+	]
+}]}
