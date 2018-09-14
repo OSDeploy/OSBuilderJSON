@@ -7,7 +7,8 @@
 	],
 	"Module":	"18.9.14.0",
 	"ModuleInfo":[
-	"Automaic Update Downloads",
+	"OSBuilder has been updated to version 18.9.14.0",
+	"Added Feature: Automaic Update Downloads",
 	"https://www.osdeploy.com/osbuilder/release-information.html",
 	"",
 	"Download from the PowerShell Gallery",
